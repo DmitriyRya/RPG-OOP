@@ -1,0 +1,19 @@
+0,00;Pribeh placeholder 1
+0,00;Pribeh placeholder 2
+0,00;Pribeh placeholder 3
+1,02;Podkal jsi Vlka a zaútočil na tebe
+0,00;Pribeh placeholder 4
+0,00;Pribeh placeholder 5
+0,00;Pribeh placeholder 6
+1,01;Podkal jsi krysu a zaútočila na tebe
+0,00;Pribeh placeholder 7
+0,00;Pribeh placeholder 8
+0,00;Pribeh placeholder 9
+0,00;Pribeh placeholder 10
+0,00;Pribeh placeholder 11
+0,00;Pribeh placeholder 12
+0,00;Pribeh placeholder 13
+0,00;Pribeh placeholder 14
+0,00;Pribeh placeholder 15
+0,00;Pribeh placeholder 16
+2,00;Potkaj jsi dalšího dobrodruha chce s tebou obchodovat

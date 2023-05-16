@@ -22,3 +22,13 @@ C:\Users\PCnetz\Desktop\PRG\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.SuggestedBi
 C:\Users\PCnetz\Desktop\PRG\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.CoreCompileInputs.cache
 C:\Users\PCnetz\Desktop\PRG\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.exe
 C:\Users\PCnetz\Desktop\PRG\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.pdb
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\bin\Debug\RPG OOP.exe.config
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\bin\Debug\RPG OOP.exe
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\bin\Debug\RPG OOP.pdb
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.exe
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.pdb
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG_OOP.Properties.Resources.resources
+C:\Users\Dmitriy\Source\Repos\RPG-OOP\RPG OOP\obj\Debug\RPG OOP.csproj.GenerateResource.cache

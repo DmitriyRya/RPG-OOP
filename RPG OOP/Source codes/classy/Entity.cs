@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RPG_OOP.classy;
+using RPG_OOP.Source_codes.Gamemanager;
 
 namespace RPG_OOP.classy
 {
@@ -16,6 +17,7 @@ namespace RPG_OOP.classy
 
         public int Reward { get; set; }
 
+
         public Entity(string name, int hp, int dmg, bool friendly, int reward)
         {
             Name = name;
@@ -24,6 +26,9 @@ namespace RPG_OOP.classy
             Friendly = friendly;
             Reward = reward;
         }
-
+        public string EntityFeedback()
+        {
+            return "Stav nepřítele " + Name + " se zbyvájícími " + Hp + " HP.";
+        }
     }
 }
